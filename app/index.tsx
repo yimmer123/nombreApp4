@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Daniel Céspedes</Text>
+      <Text>Yimmer Guzman</Text>
     </View>
   );
 }
